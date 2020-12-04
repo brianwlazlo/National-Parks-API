@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 5%;
+}
+
+.hidden {
+    display: none;
+}
+
+.max-results, .submit-btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#instructions {
+    font-style: italic;
+    font-size: 12px;
+    
+}
+
+#description {
+    font-size: 14px;
+}
+
+label {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.max-results {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+#js-max-results {
+    width: 60px;
+}
+
+#results {
+    border-top: 2px solid lightgrey;
+    width: 80%;
+}
+
+select {
+    width: 150px;
+   
+}
